@@ -1,6 +1,6 @@
 {
-  "name": "Umbrella staking",
-  "description": "An umbrella stake pool",
-  "ticker": "UMBRA",
+  "name": "TEST staking",
+  "description": "An test stake pool",
+  "ticker": "PRUE",
   "homepage": "https//www.examplepooldomain.com"
 }
