@@ -1,6 +1,7 @@
 {
-  "name": "TEST staking",
-  "description": "An test stake pool",
-  "ticker": "PRUE",
-  "homepage": "https//www.examplepooldomain.com"
+  "name": "SOUL staking",
+  "ticker": "SOUL",
+  "description": "A test stake pool",
+  "homepage": "https://www.exampledomain.com",
+  "nonce": "1628131442"
 }
