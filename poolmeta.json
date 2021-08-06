@@ -1,7 +1,6 @@
 {
-  "name": "SOUL staking",
-  "ticker": "SOUL",
+  "name": "UMBRA",
+  "ticker": "UMBRA",
   "description": "A test stake pool",
-  "homepage": "https://www.exampledomain.com",
-  "nonce": "1628131442"
+  "homepage": "https://www.umbrapool.org"
 }
